@@ -1,6 +1,7 @@
  ### create a conda environemnt
   ```
 conda create -n py37
+conda activate py37
   ```
 
 ### Install Jupiter-lab
