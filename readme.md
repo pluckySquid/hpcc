@@ -29,6 +29,7 @@ get following result:
 ```
 ssh i35
 ```
+Type "yes" and you password when login
 
 ### quit from the vm
 ctrl A + D
